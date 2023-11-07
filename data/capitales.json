@@ -10,7 +10,7 @@
         "Praga",
         "Ámsterdam",
         "Viena",
-        "Estocolmo",
+        "Copenhague",
         "Budapest"
     ],
     "coordenadas": {
@@ -54,9 +54,9 @@
             "latitud": 48.208174,
             "longitud": 16.373819
         },
-        "Estocolmo": {
-            "latitud": 59.329323,
-            "longitud": 18.068581
+        "Copenhague": {
+            "latitud": 55.676097,
+            "longitud": 12.568337
         },
         "Budapest": {
             "latitud": 47.497913,
@@ -64,7 +64,6 @@
         }
     },
     "distancias": {
-
         "Madrid": {
             "Madrid": 0,
             "París": 1056,
@@ -76,7 +75,7 @@
             "Praga": 1752,
             "Ámsterdam": 1375,
             "Viena": 2275,
-            "Estocolmo": 2898,
+            "Copenhague": 1613,
             "Budapest": 1775
         },
         "París": {
@@ -90,7 +89,7 @@
             "Praga": 1029,
             "Ámsterdam": 431,
             "Viena": 1133,
-            "Estocolmo": 1903,
+            "Copenhague": 1056,
             "Budapest": 1345
         },
         "Berlín": {
@@ -104,7 +103,7 @@
             "Praga": 280,
             "Ámsterdam": 657,
             "Viena": 683,
-            "Estocolmo": 1618,
+            "Copenhague": 152,
             "Budapest": 684
         },
         "Roma": {
@@ -118,7 +117,7 @@
             "Praga": 1454,
             "Ámsterdam": 1632,
             "Viena": 857,
-            "Estocolmo": 2376,
+            "Copenhague": 1604,
             "Budapest": 1330
         },
         "Atenas": {
@@ -132,7 +131,7 @@
             "Praga": 1749,
             "Ámsterdam": 2991,
             "Viena": 2192,
-            "Estocolmo": 3723,
+            "Copenhague": 3011,
             "Budapest": 971
         },
         "Lisboa": {
@@ -146,7 +145,7 @@
             "Praga": 2767,
             "Ámsterdam": 2029,
             "Viena": 3012,
-            "Estocolmo": 3212,
+            "Copenhague": 2269,
             "Budapest": 3062
         },
         "Varsovia": {
@@ -160,7 +159,7 @@
             "Praga": 514,
             "Ámsterdam": 876,
             "Viena": 663,
-            "Estocolmo": 1096,
+            "Copenhague": 679,
             "Budapest": 710
         },
         "Praga": {
@@ -174,7 +173,7 @@
             "Praga": 0,
             "Ámsterdam": 666,
             "Viena": 293,
-            "Estocolmo": 602,
+            "Copenhague": 602,
             "Budapest": 330
         },
         "Ámsterdam": {
@@ -188,7 +187,7 @@
             "Praga": 666,
             "Ámsterdam": 0,
             "Viena": 1141,
-            "Estocolmo": 1540,
+            "Copenhague": 601,
             "Budapest": 1249
         },
         "Viena": {
@@ -202,22 +201,22 @@
             "Praga": 293,
             "Ámsterdam": 1141,
             "Viena": 0,
-            "Estocolmo": 1704,
+            "Copenhague": 1284,
             "Budapest": 214
         },
-        "Estocolmo": {
-            "Madrid": 2898,
-            "París": 1903,
-            "Berlín": 1618,
-            "Roma": 2376,
-            "Atenas": 3723,
-            "Lisboa": 3212,
-            "Varsovia": 1096,
+        "Copenhague": {
+            "Madrid": 1613,
+            "París": 1056,
+            "Berlín": 152,
+            "Roma": 1604,
+            "Atenas": 3011,
+            "Lisboa": 2269,
+            "Varsovia": 679,
             "Praga": 602,
-            "Ámsterdam": 1540,
-            "Viena": 1704,
-            "Estocolmo": 0,
-            "Budapest": 1465
+            "Ámsterdam": 601,
+            "Viena": 1284,
+            "Copenhague": 0,
+            "Budapest": 1192
         },
         "Budapest": {
             "Madrid": 1775,
@@ -230,8 +229,8 @@
             "Praga": 330,
             "Ámsterdam": 1249,
             "Viena": 214,
-            "Estocolmo": 1465,
+            "Copenhague": 1192,
             "Budapest": 0
         }
-    }
+    }    
 }
